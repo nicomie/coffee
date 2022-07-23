@@ -1,0 +1,1 @@
+ALTER TABLE coffees ADD COLUMN image_src text NOT NULL;

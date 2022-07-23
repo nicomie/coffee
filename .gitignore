@@ -1,0 +1,5 @@
+vue-postgres.json
+*.env
+Makefile
+Makefile.in
+makefile
